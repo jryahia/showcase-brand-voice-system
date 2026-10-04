@@ -43,6 +43,10 @@ Every chatbot a brand deploys drifts to its own tone. This system stores a brand
 
 ![Brand profiles and generated prompts](assets/00-home.png)
 
+**API surface: brand profiles, prompt and example generation**
+
+![API surface: brand profiles, prompt and example generation](assets/10-api.png)
+
 ---
 
 Built by [Yahya Jarray](https://github.com/jryahia). Interested in a similar system? [Get in touch](mailto:yahiajarray43@gmail.com).
