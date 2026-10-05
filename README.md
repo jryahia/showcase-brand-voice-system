@@ -39,6 +39,8 @@ Every chatbot a brand deploys drifts to its own tone. This system stores a brand
 
 ## Screenshots
 
+> Screenshots show the app running on seeded demo data, not client data.
+
 **Brand profiles and generated prompts**
 
 ![Brand profiles and generated prompts](assets/00-home.png)
